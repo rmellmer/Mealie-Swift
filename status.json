@@ -1,6 +1,6 @@
 {
   "id": "test-2026-02-16",
-  "active": true,
+  "active": false,
   "message": "This is a test announcement. The status banner system is working correctly.",
   "severity": "warning",
   "minAppVersion": null,
